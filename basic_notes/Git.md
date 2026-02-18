@@ -17,3 +17,17 @@
 - 如何消除：点击提交（Commit）后，这个字母就会消失，表示本地和仓库同步了。
 
 ---
+## 课程笔记结构建议
+My-D2L-Journey/
+
+├── README.md           # 学习计划、进度打卡
+
+├── chapter_01/         # 每一章一个文件夹
+
+│   ├── theory_notes.md # 理论笔记（概念、推导）
+
+│   ├── code_practice.ipynb # 代码复现
+
+│   └── exercises.md    # 课后习题解答与思考
+
+└── assets/             # 存放笔记里的图片、流程图
